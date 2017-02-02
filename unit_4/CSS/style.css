@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700|Poppins:300');
+body {
+    background-color: #DBDBDB;
+}
+h1 {color: #000000;
+    font-family: 'Montserrat';
+    font-size: 40px;
+	line-height: 2.5em;
+	text-align: center
+}
+
+p {
+    color: #000000;
+    font-family: 'Poppins';
+    font-size: 18px;
+	line-height: 5em;
+	text-align: center;
+}
+nav a{  
+	color: #000000;
+    font-family: 'Poppins';
+    font-size: 12px;
+	line-height: 5em;
+	margin: 4em;
+}
